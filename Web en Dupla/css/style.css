@@ -1,0 +1,18 @@
+/* CARRUSEL DE IMÁGENES */
+.element-item{
+  height: 480%;
+  width: 100%;
+}
+
+.element-img{
+  height: 90vh;
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+
+}
+
+/* TARJETA DE PERFIL */
+.card{
+  width: 18rem;
+}
